@@ -1,5 +1,5 @@
 # ML-Agents_GorillaLocomotion
-Unity Project with ML-Agent package and GorillaLocomotion
+Unity Project with [ML-Agent](https://github.com/Unity-Technologies/ml-agents) package and [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion)
 
 
 ## Disclaimer
