@@ -4,4 +4,4 @@ Unity Project with [ML-Agents](https://github.com/Unity-Technologies/ml-agents) 
 
 ## Disclaimer
 
-**ML-Agents_GorillaLocomotion** is not affiliated with Another Axiom, creators of GorillaLocomotion.
+I am not affiliated with Another Axiom, creators of GorillaLocomotion.
