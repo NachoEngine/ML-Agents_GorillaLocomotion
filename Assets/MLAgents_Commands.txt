@@ -1,0 +1,18 @@
+C:\Users\Isedro\HobbyProjectFolder\GorillaTag_Files\GorillaTag_UnityProjects\GorillaMLAgent
+
+venv\Scripts\activate
+
+py -m pip install --upgrade pip
+
+pip install mlagents
+
+pip3 install torch torchvision torchaudio
+
+pip install onnx==1.12.0
+pip install protobuf==3.19.6
+
+mlagents-learn --help
+mlagents-learn --run-id=GorillaAgent --time-scale 2
+mlagents-learn --force
+mlagents-learn --force --time-scale 1
+mlagents-learn --force --time-scale 1 --run-id=cubechase
